@@ -1,0 +1,1 @@
+{"jobID":"26c253db-e09c-0bff-401c-bd28c8f3725e","spec":{"type":"policy","cause":{"Message":"","User":"linzhaoming \u003cteleyic@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
