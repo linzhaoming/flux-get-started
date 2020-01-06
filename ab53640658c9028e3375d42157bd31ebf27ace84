@@ -1,0 +1,1 @@
+{"jobID":"b9607255-aa24-82b9-f1b0-89421e1b1db9","spec":{"type":"policy","cause":{"Message":"1.4.2 does not work for us","User":"linzhaoming \u003cteleyic@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"1.4.2 does not work for us","locked_user":"linzhaoming \u003cteleyic@gmail.com\u003e"},"remove":{}}}},"result":null}
